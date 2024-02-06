@@ -46,31 +46,36 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Clone da Página do HBO Max com Responsividade e Animação",
+      "url": "https://github.com/AndersonBHBR/hbo-max-clone",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Site do Coffee Shop Bootstrap",
+      "url": "https://github.com/AndersonBHBR/coffee-shop-bootstrap",
+      "github": true
+    },
+    {
+      "name": "Gerenciador de Produtos",
+      "url": "https://github.com/AndersonBHBR/gerenciador-de-produtos",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Belfar Ltda",
+      "period": "10/2021 - 01/2022",
+      "description": "Desenvolvimento Full-Stack Front-End em Angularjs , Jquery, HTML5, CSS3 e Javascript Back-End em PHP e .Net C# Entity Framework Correção e desenvolvimento de novas funcionalidades em sistemas WEB"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "MAXMED",
+      "period": "01/2019 - 04/2019",
+      "description": "Trabalho principal com programação PHP e Banco de Dados no sistema online MEDVIDA. Trabalhos secundários com suporte ao usuário, incluindo o suporte ao sistema SIGMO da Vitatech."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "O Gênio da Lâmpada",
+      "period": "12/2015 - 02/2016",
+      "description": "Dando continuidade no desenvolvimento dos aplicativos Ionic."
     }
   ]
 }
